@@ -1,0 +1,4 @@
+include README.md
+recursive-include IPShow/templates *
+recursive-include IPShow/translations *
+recursive-include IPShow/static *

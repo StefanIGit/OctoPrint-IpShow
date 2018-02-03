@@ -1,6 +1,6 @@
 # OctoPrint-IpShow
 
-**This will try to get a IP address which has internet access and sends it into Navbar and in the printer's LCD.** Describe what your plugin does.
+This will try to get a IP address which has internet access and sends it into Navbar and in the printer's LCD by M117 command.
 
 ## Setup
 
@@ -9,9 +9,6 @@ or manually using this URL:
 
     https://github.com/StefaniGit/OctoPrint-IpShow/archive/master.zip
 
-**TODO:** Describe how to install your plugin, if more needs to be done than just installing it via pip or through
-the plugin manager.
-
 ## Configuration
 
-**TODO:** Describe your plugin's configuration options (if any).
+None
